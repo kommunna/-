@@ -4,7 +4,7 @@ export const MOVIES: Movie[] = [
   {
     id: 'song-of-the-sea',
     kinopoiskId: 714248,
-    posterPath: '/posters/714248.jpg',
+    posterPath: './posters/714248.jpg',
     title: 'Песнь моря',
     originalTitle: 'Song of the Sea',
     year: 2014,
@@ -65,7 +65,7 @@ export const MOVIES: Movie[] = [
   {
     id: 'mid90s',
     kinopoiskId: 1040690,
-    posterPath: '/posters/1040690.jpg',
+    posterPath: './posters/1040690.jpg',
     title: 'Середина 90-х',
     originalTitle: 'Mid90s',
     year: 2018,
@@ -127,7 +127,7 @@ export const MOVIES: Movie[] = [
   {
     id: 'the-booksellers',
     kinopoiskId: 1347315,
-    posterPath: '/posters/1347315.jpg',
+    posterPath: './posters/1347315.jpg',
     title: 'Книготорговцы',
     originalTitle: 'The Booksellers',
     year: 2019,
@@ -187,7 +187,7 @@ export const MOVIES: Movie[] = [
   {
     id: 'la-grande-bellezza',
     kinopoiskId: 677566,
-    posterPath: '/posters/677566.jpg',
+    posterPath: './posters/677566.jpg',
     title: 'Великая красота',
     originalTitle: 'La grande bellezza',
     year: 2013,
@@ -249,7 +249,7 @@ export const MOVIES: Movie[] = [
   {
     id: 'incendies',
     kinopoiskId: 425400,
-    posterPath: '/posters/425400.jpg',
+    posterPath: './posters/425400.jpg',
     title: 'Пожары',
     originalTitle: 'Incendies',
     year: 2010,
@@ -310,7 +310,7 @@ export const MOVIES: Movie[] = [
   {
     id: 'do-not-bury-me-without-ivan',
     kinopoiskId: 5237750,
-    posterPath: '/posters/5237750.jpg',
+    posterPath: './posters/5237750.jpg',
     title: 'Не хороните меня без Ивана',
     originalTitle: 'Не хороните меня без Ивана',
     year: 2022,
@@ -372,7 +372,7 @@ export const MOVIES: Movie[] = [
   {
     id: 'the-seventh-seal',
     kinopoiskId: 425,
-    posterPath: '/posters/425.jpg',
+    posterPath: './posters/425.jpg',
     title: 'Седьмая печать',
     originalTitle: 'Det sjunde inseglet',
     year: 1957,
@@ -434,7 +434,7 @@ export const MOVIES: Movie[] = [
   {
     id: 'the-banishment',
     kinopoiskId: 225011,
-    posterPath: '/posters/225011.jpg',
+    posterPath: './posters/225011.jpg',
     title: 'Изгнание',
     originalTitle: 'The Banishment',
     year: 2007,
@@ -495,7 +495,7 @@ export const MOVIES: Movie[] = [
   {
     id: 'nouvelle-vague',
     kinopoiskId: 6553389,
-    posterPath: '/posters/6553389.jpg',
+    posterPath: './posters/6553389.jpg',
     title: 'Новая волна',
     originalTitle: 'Nouvelle Vague',
     year: 2024,
@@ -555,7 +555,7 @@ export const MOVIES: Movie[] = [
   {
     id: 'the-war-of-art',
     kinopoiskId: 1259195,
-    posterPath: '/posters/1259195.jpg',
+    posterPath: './posters/1259195.jpg',
     title: 'Война искусств',
     originalTitle: 'The War of Art',
     year: 2019,

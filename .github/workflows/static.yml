@@ -30,7 +30,9 @@ jobs:
         run: npm install --legacy-peer-deps
 
       - name: Build
-        run: npx vite build
+        run: |
+          npx vite build
+          cp -r posters ./dist/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

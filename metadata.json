@@ -1,0 +1,6 @@
+{
+  "name": "ВечерФильм — Выбор фильма на вечер",
+  "description": "Сервис умного подбора фильмов для вечернего просмотра: интерактивный фильтр по настроению, каталог с рекомендациями и детальные страницы картин.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
